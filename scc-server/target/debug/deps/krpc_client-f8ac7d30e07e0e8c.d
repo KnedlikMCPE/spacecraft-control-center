@@ -1,0 +1,14 @@
+/home/knedlik/Documents/spacecraft-control-center/scc-server/target/debug/deps/libkrpc_client-f8ac7d30e07e0e8c.rmeta: /home/knedlik/.cargo/git/checkouts/krpc-client-b9129a67a1c38ae8/ae34900/src/lib.rs /home/knedlik/.cargo/git/checkouts/krpc-client-b9129a67a1c38ae8/ae34900/src/client.rs /home/knedlik/.cargo/git/checkouts/krpc-client-b9129a67a1c38ae8/ae34900/src/error.rs /home/knedlik/.cargo/git/checkouts/krpc-client-b9129a67a1c38ae8/ae34900/src/stream.rs /home/knedlik/Documents/spacecraft-control-center/scc-server/target/debug/build/krpc-client-b3ceb171419d6ba1/out/services.rs /home/knedlik/Documents/spacecraft-control-center/scc-server/target/debug/build/krpc-client-b3ceb171419d6ba1/out/krpc.rs
+
+/home/knedlik/Documents/spacecraft-control-center/scc-server/target/debug/deps/libkrpc_client-f8ac7d30e07e0e8c.rlib: /home/knedlik/.cargo/git/checkouts/krpc-client-b9129a67a1c38ae8/ae34900/src/lib.rs /home/knedlik/.cargo/git/checkouts/krpc-client-b9129a67a1c38ae8/ae34900/src/client.rs /home/knedlik/.cargo/git/checkouts/krpc-client-b9129a67a1c38ae8/ae34900/src/error.rs /home/knedlik/.cargo/git/checkouts/krpc-client-b9129a67a1c38ae8/ae34900/src/stream.rs /home/knedlik/Documents/spacecraft-control-center/scc-server/target/debug/build/krpc-client-b3ceb171419d6ba1/out/services.rs /home/knedlik/Documents/spacecraft-control-center/scc-server/target/debug/build/krpc-client-b3ceb171419d6ba1/out/krpc.rs
+
+/home/knedlik/Documents/spacecraft-control-center/scc-server/target/debug/deps/krpc_client-f8ac7d30e07e0e8c.d: /home/knedlik/.cargo/git/checkouts/krpc-client-b9129a67a1c38ae8/ae34900/src/lib.rs /home/knedlik/.cargo/git/checkouts/krpc-client-b9129a67a1c38ae8/ae34900/src/client.rs /home/knedlik/.cargo/git/checkouts/krpc-client-b9129a67a1c38ae8/ae34900/src/error.rs /home/knedlik/.cargo/git/checkouts/krpc-client-b9129a67a1c38ae8/ae34900/src/stream.rs /home/knedlik/Documents/spacecraft-control-center/scc-server/target/debug/build/krpc-client-b3ceb171419d6ba1/out/services.rs /home/knedlik/Documents/spacecraft-control-center/scc-server/target/debug/build/krpc-client-b3ceb171419d6ba1/out/krpc.rs
+
+/home/knedlik/.cargo/git/checkouts/krpc-client-b9129a67a1c38ae8/ae34900/src/lib.rs:
+/home/knedlik/.cargo/git/checkouts/krpc-client-b9129a67a1c38ae8/ae34900/src/client.rs:
+/home/knedlik/.cargo/git/checkouts/krpc-client-b9129a67a1c38ae8/ae34900/src/error.rs:
+/home/knedlik/.cargo/git/checkouts/krpc-client-b9129a67a1c38ae8/ae34900/src/stream.rs:
+/home/knedlik/Documents/spacecraft-control-center/scc-server/target/debug/build/krpc-client-b3ceb171419d6ba1/out/services.rs:
+/home/knedlik/Documents/spacecraft-control-center/scc-server/target/debug/build/krpc-client-b3ceb171419d6ba1/out/krpc.rs:
+
+# env-dep:OUT_DIR=/home/knedlik/Documents/spacecraft-control-center/scc-server/target/debug/build/krpc-client-b3ceb171419d6ba1/out

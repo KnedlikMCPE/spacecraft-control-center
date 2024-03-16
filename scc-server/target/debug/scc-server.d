@@ -1,0 +1,1 @@
+/home/knedlik/Documents/spacecraft-control-center/scc-server/target/debug/scc-server: /home/knedlik/Documents/spacecraft-control-center/scc-server/src/main.rs /home/knedlik/Documents/spacecraft-control-center/scc-server/src/script.rs /home/knedlik/Documents/spacecraft-control-center/scc-server/src/taerobee.rs
